@@ -1,0 +1,1 @@
+[SETU Hip Comp Sci 2026 Slack](??)
