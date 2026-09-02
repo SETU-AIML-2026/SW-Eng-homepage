@@ -1,8 +1,10 @@
 ---
-icon:
+icon: 
   type: ri:bubble-chart-fill
   color: 009656
 ---
-Workshop 1
+
+# Induction
+
 
 induction · structure · schedules · handbook
