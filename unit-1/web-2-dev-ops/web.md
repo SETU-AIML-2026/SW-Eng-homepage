@@ -1,8 +1,8 @@
 ---
-icon:
-  type: ri:terminal-box-fill
-  color: e67e22
+icon: 
+  type: ri:cloudy-2-fill
+  color: 51a3c3
 ---
 Developer Operations
 
-ci/cd · containers · deployment · cloud · devops
+cloud computing  · scripting · scaling · automation · monitoring 

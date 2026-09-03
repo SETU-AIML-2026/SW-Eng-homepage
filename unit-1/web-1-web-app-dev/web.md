@@ -1,8 +1,8 @@
 ---
 icon:
-  type: ri:code-box-fill
-  color: 2563eb
+  type: la:server
+  color: 2D5BA6
 ---
 Web App Development
 
-html · css · javascript · frameworks · responsive design
+javascript · node · apis · tdd · frameworks · front-end · sveltekit · typescript 
